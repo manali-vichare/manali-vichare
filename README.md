@@ -1,7 +1,6 @@
-### Hi there 👋
 ![name](https://github.com/manali-vichare/manali-vichare/blob/main/manali.gif)
 
-# Hello, I am so glad you are here!! !
+# Hello, I am so glad you are here!! ! 👋
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/%7Bmanali-vichare%7D/count.svg)
