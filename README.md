@@ -9,7 +9,6 @@
  -->
 ## I'm a Data Scientist, Bookworm and a food lover! ##
 
-"I am still learning."- Michelangelo at age 87
 
 - 🔭 I am a graduate student at Stevens Institute of Technology pursuing my master's in Data Science
 - 🧩 My interests include analytics, data engineering, statistics, machine learning and data visualization
@@ -30,7 +29,7 @@
 
 
 
-
+### "I am still learning."- Michelangelo at age 87
 Programming Languages:
 
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
