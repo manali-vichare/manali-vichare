@@ -33,7 +33,7 @@
 Programming Languages:
 
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/R/R-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
 
