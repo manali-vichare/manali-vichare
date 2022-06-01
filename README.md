@@ -50,7 +50,7 @@ The tools, editors and operating systems which I use:
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r-studio/r-studio-original.svg"></code>
+
 
 
 <img align="left" alt="Manali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manali-vichare&show_icons=true&hide_border=true&theme=radical" />
