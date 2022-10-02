@@ -12,7 +12,7 @@
 
 - 🔭 I am a graduate student at Stevens Institute of Technology pursuing my master's in Data Science
 - 🧩 My interests include analytics, data engineering, statistics, machine learning and data visualization
-- 🤖 Actively looking for full time starting summer'23 roles in the field of Data Science, Machine Learning, and Business Intelligence
+- 🤖 Actively looking for full time roles starting summer'23 roles in the field of Data Science, Machine Learning, and Business Intelligence
 - ⌨️ I am an enthusiastic learner with good problem-solving skills. I easily adapt new challenges with a proactive attitude
 - 💼 Last summer, I worked as a Data Analyst at Digi-Health, a small startup company based in Mumbai, India
 - ⚡ Fun fact: I love to eat chinese food and watch movies/series  
