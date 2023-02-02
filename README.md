@@ -11,11 +11,11 @@
 
 
 - 🔭 I am a graduate student at Stevens Institute of Technology pursuing my master's in Data Science
-- 🧩 My interests include analytics, data engineering, statistics, machine learning and data visualization
+- 🧩 My interests include business intelligence, analytics, statistics, machine learning and data visualization
 - 🤖 Actively looking for full time roles starting summer'23 roles in the field of Data Science, Machine Learning, and Business Intelligence
 - ⌨️ I am an enthusiastic learner with good problem-solving skills. I easily adapt new challenges with a proactive attitude
-- 💼 Last summer, I worked as a Data Analyst at Digi-Health, a small startup company based in Mumbai, India
-- ⚡ Fun fact: I love to eat chinese food and watch movies/series  
+- 💼 Last summer, I worked as a Ops Decision Science Intern at Wolters Kluwer, New York.
+- ⚡ Fun fact: I love to eat Japanese food and watch movies/series  
 
 <img align="right" alt="GIF" src="https://github.com/manali-vichare/manali-vichare/blob/main/code1.jpeg?raw=true" width="250" height="320" />
 
