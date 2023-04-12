@@ -11,8 +11,8 @@
 
 
 - 🔭 I am a graduate student at Stevens Institute of Technology pursuing my master's in Data Science
-- 🧩 My interests include business intelligence, analytics, statistics, machine learning and data visualization
-- 🤖 Actively looking for full time roles starting summer'23 roles in the field of Data Science, Machine Learning, and Business Intelligence
+- 🧩 My interests include business intelligence, analytics, statistics, data enginerring and data visualization
+- 🤖 Actively looking for full time roles starting summer'23 roles in the field of Data Science, Data Engineering, and Business Intelligence
 - ⌨️ I am an enthusiastic learner with good problem-solving skills. I easily adapt new challenges with a proactive attitude
 - 💼 Last summer, I worked as a Ops Decision Science Intern at Wolters Kluwer, New York.
 - ⚡ Fun fact: I love to eat Japanese food and watch movies/series  
