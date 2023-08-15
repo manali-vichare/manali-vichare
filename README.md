@@ -14,7 +14,7 @@
 - 🧩 My interests include business intelligence, analytics, statistics, data engineering and data visualization
 - 🤖 Actively looking for full time roles starting summer'23 roles in the field of Data Science, Data Engineering, and Business Intelligence
 - ⌨️ I am an enthusiastic learner with good problem-solving skills. I easily adapt new challenges with a proactive attitude
-- 💼 Last summer, I worked as a Ops Decision Science Intern at Wolters Kluwer, New York.
+- 💼 Last summer, I worked as a Data Science Intern at Wolters Kluwer, New York.
 - ⚡ Fun fact: I love to eat Japanese food and watch movies/series  
 
 <img align="right" alt="GIF" src="https://github.com/manali-vichare/manali-vichare/blob/main/code1.jpeg?raw=true" width="250" height="320" />
