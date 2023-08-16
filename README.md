@@ -7,7 +7,7 @@
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=manali-vichare.manali-vichare)
  -->
-## I'm a Data Scientist, Bookworm and a food lover! ##
+## I'm a data scientist, skincare aficionado and a food lover! ##
 
 
 - 🔭 I am a graduate student at Stevens Institute of Technology pursuing my master's in Data Science
