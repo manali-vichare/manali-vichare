@@ -10,7 +10,7 @@
 ## I'm a data scientist, skincare aficionado and a food lover! ##
 
 
-- 🔭 I am a graduate student at Stevens Institute of Technology pursuing my master's in Data Science
+- 🔭 I'm a recent graduate with a major in Data Science and specialization in business intelligence at Stevens Institute of Technology
 - 🧩 My interests include business intelligence, analytics, statistics, data engineering and data visualization
 - 🤖 Actively looking for full time roles starting summer'23 roles in the field of Data Science, Data Engineering, and Business Intelligence
 - ⌨️ I am an enthusiastic learner with good problem-solving skills. I easily adapt new challenges with a proactive attitude
