@@ -9,6 +9,7 @@
 - 🤔 Always up for challenge, whether it's solving a tough data problem or figuring out the best way to spend a weekend!
 - 💬 Ask me about data analysis, how to make numbers work for you, or my favorite ways to stay balanced while working with data. 
 - ⚡ Fun fact: I love doing my skincare and taking long walks.
+
 ![giphy](https://github.com/user-attachments/assets/c86188ac-5675-4f5d-ba0d-937122af7ec3)
 
 
