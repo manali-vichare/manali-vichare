@@ -10,10 +10,12 @@
 - 💬 Ask me about data analysis, how to make numbers work for you, or my favorite ways to stay balanced while working with data. 
 - ⚡ Fun fact: I love doing my skincare and taking long walks.
 
-![giphy](https://github.com/user-attachments/assets/c86188ac-5675-4f5d-ba0d-937122af7ec3)
+
+![GIT](https://github.com/user-attachments/assets/b2a1e44e-9ec7-4c82-a108-006536adbb66)
 
 
 ### Connect with me:
+
 
 <!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/manali-vichare//)&nbsp; -->
 
