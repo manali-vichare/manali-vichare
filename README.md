@@ -2,13 +2,13 @@
 # Hi👋 I'm Manali Vichare
 
 
-## I’m an Data Strategy Analyst, perpetual learner, and a curious, collaborative thinker! ##
+## I’m a Data Strategy Analyst, perpetual learner, and a curious, collaborative thinker! ##
 
-- 🔭 I’m currently working as a Business Intelligence Analyst, transforming raw data into compelling narratives.
+- 🔭 I’m currently working as a Data Strategy Analyst, transforming raw data into compelling narratives.
 - 🌱 I love exploring new analytics tools and techniques to stay on top of my game and keep things fresh and exciting!
 - 🤔 Always up for challenge, whether it's solving a tough data problem or figuring out the best way to spend a weekend!
-- 💬 Ask me about data analysis, how to make numbers work for you, or my favorite ways to stay balanced while working with data. 
-- ⚡ Fun fact: I love doing my skincare and taking long walks.
+- 💬 Ask me about data analysis, how to make numbers work for you, or navigating uncertainty(with or without matcha).
+- ⚡ Beyond dashboards and datasets —  I enjoy yoga and long walks.
 
 
 ![GIT](https://github.com/user-attachments/assets/b2a1e44e-9ec7-4c82-a108-006536adbb66)
