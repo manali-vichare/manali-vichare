@@ -2,7 +2,7 @@
 # Hi👋 I'm Manali Vichare
 
 
-## "I’m an Analyst, perpetual learner, and  skincare enthusiast! ##
+## I’m an Data Strategy Analyst, perpetual learner, and a curious, collaborative thinker! ##
 
 - 🔭 I’m currently working as a Business Intelligence Analyst, transforming raw data into compelling narratives.
 - 🌱 I love exploring new analytics tools and techniques to stay on top of my game and keep things fresh and exciting!
