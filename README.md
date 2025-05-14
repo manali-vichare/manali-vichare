@@ -4,7 +4,7 @@
 
 ## I’m an Analyst, perpetual learner, and a curious, collaborative thinker! ##
 
-- 🔭 I’m currently working as a Data Strategy Analyst, transforming raw data into compelling narratives.
+- 🔭 I’m currently working as a BI Analyst, transforming raw data into compelling narratives.
 - 🌱 I love exploring new analytics tools and techniques to stay on top of my game and keep things fresh and exciting!
 - 🤔 Always up for challenge, whether it's solving a tough data problem or figuring out the best way to spend a weekend!
 - 💬 Ask me about data analysis, how to make numbers work for you, or navigating uncertainty(with or without matcha).
