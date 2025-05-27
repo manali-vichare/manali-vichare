@@ -2,7 +2,7 @@
 # Hi👋 I'm Manali Vichare
 
 
-## I’m an Analyst, perpetual learner, and a curious, collaborative thinker! ##
+## I’m an Analyst, perpetual learner, and a yoga enthusiast! ##
 
 - 🔭 I’m currently working as a BI Analyst, transforming raw data into compelling narratives.
 - 🌱 I love exploring new analytics tools and techniques to stay on top of my game and keep things fresh and exciting!
