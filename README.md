@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as a BI Analyst, transforming raw data into compelling narratives.
 - 🌱 I love working with data and have a strong drive to keep learning, from trying new tools to refining workflows and finding insights, I’m always aiming to improve.
 - 🤔 Always up for challenge, whether it's solving a tough data problem or figuring out the best way to spend a weekend!
-- 💬 Ask me about data analysis, how to make numbers work for you, or navigating uncertainty(with or without matcha).
+- 💬 Ask me about data analysis, how to make numbers work for you, or the best matcha spots in the city.
 - ⚡ Beyond dashboards and datasets —  I enjoy yoga and long walks.
 
 
