@@ -5,7 +5,7 @@
 ## I’m an Analyst, perpetual learner, and a yoga enthusiast! ##
 
 - 🔭 I’m currently working as a BI Analyst, transforming raw data into compelling narratives.
-- 🌱 I love exploring new analytics tools and techniques to stay on top of my game and keep things fresh and exciting!
+- 🌱 I love working with data and have a strong drive to keep learning, from trying new tools to refining workflows and finding insights, I’m always aiming to improve.
 - 🤔 Always up for challenge, whether it's solving a tough data problem or figuring out the best way to spend a weekend!
 - 💬 Ask me about data analysis, how to make numbers work for you, or navigating uncertainty(with or without matcha).
 - ⚡ Beyond dashboards and datasets —  I enjoy yoga and long walks.
