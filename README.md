@@ -24,8 +24,7 @@
 
 
 ### Technical Skills
-"I am still learning." 
-- Michelangelo at age 87 
+"I am still learning."- Michelangelo at age 87 
 
 Programming Languages:
 
