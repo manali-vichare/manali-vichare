@@ -23,9 +23,6 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manalivichare1998@gmail.com)
 
 
-### Technical Skills
-##### "I am still learning."- Michelangelo at age 87 
-
 #### Programming Languages:
 
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
