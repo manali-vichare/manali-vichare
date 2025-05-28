@@ -23,7 +23,9 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manalivichare1998@gmail.com)
 
 
-
+### Technical Skills
+"I am still learning." 
+- Michelangelo at age 87 
 
 Programming Languages:
 
@@ -40,8 +42,6 @@ Programming Languages:
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
-
-
 
 
 The tools, editors and operating systems which I use:
