@@ -46,11 +46,11 @@
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 
 
-![images2](https://github.com/user-attachments/assets/9ba65829-6bfd-4faf-a366-279e8798026b)
 
 <img align="left" alt="Manali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Manali-Vichare&show_icons=true&hide_border=true&theme=radical" />
 
 
+![images (1)2](https://github.com/user-attachments/assets/7d5af70d-7965-4379-a9ab-169bf93bed99)
 
 
 <!---
