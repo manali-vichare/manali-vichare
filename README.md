@@ -1,6 +1,7 @@
 
 # Hi👋 I'm Manali Vichare
 
+![images (1)2](https://github.com/user-attachments/assets/7d5af70d-7965-4379-a9ab-169bf93bed99)
 
 ## I’m an Analyst, perpetual learner, and a yoga enthusiast! ##
 
@@ -49,8 +50,6 @@
 
 <img align="left" alt="Manali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Manali-Vichare&show_icons=true&hide_border=true&theme=radical" />
 
-
-![images (1)2](https://github.com/user-attachments/assets/7d5af70d-7965-4379-a9ab-169bf93bed99)
 
 
 <!---
