@@ -11,9 +11,6 @@
 - ⚡ Beyond dashboards and datasets —  I enjoy yoga and long walks.
 
 
-![images2](https://github.com/user-attachments/assets/9ba65829-6bfd-4faf-a366-279e8798026b)
-
-
 ### Connect with me:
 
 
@@ -49,6 +46,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 
 
+![images2](https://github.com/user-attachments/assets/9ba65829-6bfd-4faf-a366-279e8798026b)
 
 <img align="left" alt="Manali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Manali-Vichare&show_icons=true&hide_border=true&theme=radical" />
 
