@@ -14,6 +14,10 @@
 ![GIT](https://github.com/user-attachments/assets/b2a1e44e-9ec7-4c82-a108-006536adbb66)
 
 
+### ✍️ Quote I believe in
+![images2](https://github.com/user-attachments/assets/9ba65829-6bfd-4faf-a366-279e8798026b)
+
+
 ### Connect with me:
 
 
@@ -52,8 +56,7 @@
 
 <img align="left" alt="Manali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Manali-Vichare&show_icons=true&hide_border=true&theme=radical" />
 
-### ✍️ Quote I believe in
-![images](https://github.com/user-attachments/assets/12a6d77a-3f4d-4984-b307-bf690eaec0f7)
+
 
 
 <!---
