@@ -52,7 +52,8 @@
 
 <img align="left" alt="Manali's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Manali-Vichare&show_icons=true&hide_border=true&theme=radical" />
 
-
+### ✍️ Quote I believe in
+![images](https://github.com/user-attachments/assets/12a6d77a-3f4d-4984-b307-bf690eaec0f7)
 
 
 <!---
