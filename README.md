@@ -1,7 +1,8 @@
 
 # Hi👋 I'm Manali Vichare
 
-![images (1)2](https://github.com/user-attachments/assets/7d5af70d-7965-4379-a9ab-169bf93bed99)
+![images2](https://github.com/user-attachments/assets/9f0c50ae-3938-4520-b3a9-dd7baabb72c0)
+
 
 ## I’m an Analyst, perpetual learner, and a yoga enthusiast! ##
 
