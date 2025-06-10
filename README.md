@@ -1,8 +1,6 @@
 
 # Hi👋 I'm Manali Vichare
 
-![images2](https://github.com/user-attachments/assets/9f0c50ae-3938-4520-b3a9-dd7baabb72c0)
-
 
 ## I’m an Analyst, perpetual learner, and a yoga enthusiast! ##
 
@@ -20,6 +18,9 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manali-vichare/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manalivichare1998@gmail.com)
+
+### Technical Skills :
+![images2](https://github.com/user-attachments/assets/58aa4ab9-2d58-4154-8823-7a933376ca26)
 
 
 #### Programming Languages:
