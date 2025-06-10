@@ -11,10 +11,6 @@
 - ⚡ Beyond dashboards and datasets —  I enjoy yoga and long walks.
 
 
-![GIT](https://github.com/user-attachments/assets/b2a1e44e-9ec7-4c82-a108-006536adbb66)
-
-
-### ✍️ Quote I believe in
 ![images2](https://github.com/user-attachments/assets/9ba65829-6bfd-4faf-a366-279e8798026b)
 
 
