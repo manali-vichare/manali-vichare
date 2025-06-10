@@ -19,11 +19,9 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manali-vichare/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manalivichare1998@gmail.com)
 
-### Technical Skills :
-![images2](https://github.com/user-attachments/assets/58aa4ab9-2d58-4154-8823-7a933376ca26)
 
-
-#### Programming Languages:
+#### "I am still learning" -  Michelangelo at age 87 
+Programming Languages: 
 
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"></code>
@@ -40,7 +38,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
 
 
-#### The tools, editors and operating systems which I use:
+The tools, editors and operating systems which I use:
 
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"></code>
